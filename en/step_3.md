@@ -8,15 +8,15 @@ Machine learning doesn’t work that way - it’s **data-driven**. Instead of us
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <h3>Example: Spotify Recommendations</h3>
-
+<br><br>
 All the songs on Spotify have been put into a big database, where each song not only has data about the artist, title and album, but also about how the song sounds. Each song has been analysed and has data attached to it for values like:
-
+<br><br>
 <span style="color: #0faeb0">Danceability:</span> describes how suitable a track is for dancing! A value of 0.0 is least danceable and 1.0 is most danceable.
-
+<br><br>
 <span style="color: #0faeb0">Instrumentalness:</span> predicts whether a track contains no vocals. "Ooh" and "aah" sounds are treated as instrumental in this context. Rap or spoken word tracks like podcasts are clearly "vocal". The closer the instrumentalness value is to 1.0, the greater likelihood the track contains no talking at all.
-
+<br><br>
 <span style="color: #0faeb0">Speechiness:</span> detects the presence of spoken words in a track. The more exclusively speech-like the recording (e.g. talk show, audio book, poetry), the closer to 1.0 the speechiness value. 
-
+<br><br>
 Every time you listen to music on the service, the app takes note of how often you listen to each song and (if you rate music you listen to) how much you like it. Once the application has a certain amount of data about your choices, the model compares that data to all the songs in the database and <b>predicts</b> things that are similar to your tastes that you will probably <b>also</b> like.
 
 </div>
