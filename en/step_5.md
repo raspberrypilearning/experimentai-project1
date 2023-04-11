@@ -6,37 +6,40 @@ Your task is to set up and train a machine learning model which can do this by c
 
 --- task ---
 
-Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/).
+Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/#!/login){:target="_blank"}.
 
 
 --- /task ---
 
 --- task ---
 
-Select Get started, then Try it now.
+Select **Try it now**.
 ![](images/try_it_now.png)
 
 --- /task ---
 
 --- task ---
 
-Select Add a new project.
+Select **Add a new project**.
 ![](images/add_new_project.png)
 
 --- /task ---
 
 --- task ---
 
-Give the project a name and set it to recognise images.
+Give the project a name and set it to recognise **images**.
 
 ![](images/supermarket_ai.png)
+
+--- /task ---
+
+--- task ---
 
 Select **CREATE**.
 
 ![](images/create_button.png)
 
-Once created, click on the project title
-
+Once created, click on the project title.
 
 --- /task ---
 
@@ -52,7 +55,7 @@ Select **Train**.
 Select **Add new label** and create a label for the class of **apples**.
 ![](images/add_apple.png)
 
-**Repeat** this step to create a second label for the class of tomatoes.
+**Repeat** this step to create a second label for the class of **tomatoes**.
 
 --- /task ---
 

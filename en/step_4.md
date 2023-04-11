@@ -6,10 +6,6 @@ In this step, you will explore some predictive AI applications on the internet a
 
 First, have a play with the Thing translator by [clicking this link](https://thing-translator.appspot.com/){:target="_blank"} (you’ll need a computer or device with a camera - if you don’t have one, you can skip to the next task). 
 
---- /task ---
-
---- task ---
-
 While you’re taking pictures of things, think about these questions and write the answers in your **blueprint**:
 
 1. What is the application doing? What clues can you see on the screen?
@@ -22,11 +18,7 @@ While you’re taking pictures of things, think about these questions and write 
 
 Once you’ve had enough of the Thing Translator, have a play with an AI powered game called Quick Draw by [clicking this link](https://quickdraw.withgoogle.com/){:target="_blank"}. (You can use your mouse or trackpad to draw.)
 
---- /task ---
-
---- task ---
-
-While you’re drawing, think about:
+While you’re drawing, think about these questions and write the answers in your **blueprint**:
 
 1. What is the application doing? What clues can you see on the screen?
 
@@ -41,13 +33,13 @@ Watch the [Video about Quick Draw](https://youtu.be/X8v1GWzZYJ4){:target="_blank
 --- /task ---
 
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-<span style="color: #0faeb0">It is important to remember that the model isn’t thinking or making choices</span> - it’s just processing the pixel data of the images and examining that information to see how similar it is.
+<span style="color: #0faeb0">It is important to remember that the model isn’t thinking or making choices</span> - it’s just processing the pixel data of the images and examining that information to detect patterns.
 
 </p>
 
-Each one of those example images will be stored in the model’s training data as part of a **class**. When it is comparing your image to the examples it has been trained on, the model is measuring how closely your image fits the pattern it has detected in each class, and this is what it predicts - the level of certainty that your** sample data** should be in this class. 
+Each one of those example images will be stored in the model’s training data as part of a **class**. When it is comparing your image to the examples it has been trained on, the model is measuring how closely your image fits the pattern it has detected in each class, and this is what it predicts - the level of certainty that your **sample data** should be in this class. 
 
-Because of this, the more and wider examples of training data you can train the model with, the more certain it can be that the sample fits a particular class.
+Because of this, **the more and wider examples of training data you can train the model with, the more certain it can be that the sample fits a particular class**.
 
 ### Think about: Bias
 
