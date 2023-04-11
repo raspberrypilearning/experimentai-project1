@@ -24,3 +24,14 @@ Every time you listen to music on the service, the app takes note of how often y
 It would be very difficult to make a series of rules to decide what music you might like in this way, and impossible to do it for all the users on the service. But with machine learning, it is possible to create a **classification predictive model** that can process user data and give us recommendations. Once the model has enough data on a single user’s choices, it can **predict** other things that fit the pattern of things that user may like.
 
 **Recommendation algorithms** like this are incredibly popular among all kinds of companies for advertising and content streaming, but can you think of any other places you might see this kind of machine learning application suggesting things to you in your daily life?
+
+--- task ---
+
+**Think: Where have you seen technology recommending things you might like?** 
+
+Fill in the first table in your blueprint document with your ideas now.
+
+Chat with someone else to see if they have any other ideas - you might be surprised just how many recommendation algorithms you have seen!
+
+--- /task ---
+
