@@ -8,17 +8,20 @@ Your task is to set up and train a machine learning model which can do this by c
 
 Open the website [Machine Learning for Kids](https://machinelearningforkids.co.uk/).
 
+
 --- /task ---
 
 --- task ---
 
 Select Get started, then Try it now.
+![](images/try_it_now.png)
 
 --- /task ---
 
 --- task ---
 
 Select Add a new project.
+![](images/add_new_project.png)
 
 --- /task ---
 
@@ -26,7 +29,11 @@ Select Add a new project.
 
 Give the project a name and set it to recognise images.
 
+![](images/supermarket_ai.png)
+
 Select **CREATE**.
+
+![](images/create_button.png)
 
 Once created, click on the project title
 
@@ -36,24 +43,23 @@ Once created, click on the project title
 --- task ---
 
 Select **Train**.
+![](images/train.png)
 
 --- /task ---
 
 --- task ---
 
 Select **Add new label** and create a label for the class of **apples**.
+![](images/add_apple.png)
 
---- /task ---
-
---- task ---
-
-Select **Add new label** and create a label for the class of **tomatoes**.
+**Repeat** this step to create a second label for the class of tomatoes.
 
 --- /task ---
 
 --- task ---
 
 Visit the following webpage to find the data set you can use to train your model: [Apples and Tomatoes](https://ai-activities.raspberrypi.org/project-files/){:target="_blank"} 
+![](images/apples.png)
 
 --- /task ---
 
@@ -62,18 +68,23 @@ Visit the following webpage to find the data set you can use to train your model
 Look through the training data and **choose 5 images of apples and 5 images of tomatoes** from the data.
 
 Drag and drop your chosen images into the relevant class (Apple or Tomato).
+![](images/apple_classes.png)
 
 --- /task ---
 
 --- task ---
 
 Select **Back to project**.
+![](images/back_to_project.png)
 
 --- /task ---
 
 --- task ---
 
 Next, select **Learn & Test**.
+
+![](images/learn_test.png)
+
 
 Your model is now ready to be trained. 
 
@@ -82,6 +93,7 @@ Your model is now ready to be trained.
 --- task ---
 
 Select **Train new machine learning model**.
+![](images/train_new.png)
 
 --- /task ---
 
@@ -95,6 +107,8 @@ To see how successful your model is at classifying the test data, test your mode
 --- task ---
 
 Drag and drop an image into the link box (next to the Test with www button):
+
+![](images/test_with_www.png)
 
 --- collapse ---
 ---
@@ -113,7 +127,7 @@ Alternatively, you can:
 
 --- task ---
 
-Choose **Test with www**
+Click the **Test with www** button to test your model.
 
 --- /task ---
 
