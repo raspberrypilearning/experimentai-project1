@@ -87,6 +87,8 @@ Some tips:
 
 --- /task ---
 
+**Congratulations!** You've reached the end of the first stage of your quest! 
+
 Now that you have your playlist classes, you need to start listening to music and classifying it to show your machine learning model what you like.
 
 You will be classifying music based on two things: 
@@ -96,4 +98,3 @@ You will be classifying music based on two things:
 <p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <span style="color: #0faeb0">Hold Up:</span> You can’t move forward from this point until you have chosen your playlist classes are and what genres of music fit into them - the next stage is building the Scratch classification program so you can listen to music!
 </p>
-
