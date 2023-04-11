@@ -6,8 +6,8 @@ You’ve probably done a bit of coding before, so you know programs are usually 
 
 Machine learning doesn’t work that way - it’s **data-driven**. Instead of using lots and lots of rules to cover every possibility, machine learning takes large amounts of data about a particular topic to build an ML model. The ML model is a representation of something. Usually the representation is of the real world, but it can also be of an imaginary context.
 
-<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-</span><h3>Example: Spotify Recommendations</h3></span>
+<div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+<h3>Example: Spotify Recommendations</h3>
 
 All the songs on Spotify have been put into a big database, where each song not only has data about the artist, title and album, but also about how the song sounds. Each song has been analysed and has data attached to it for values like:
 
@@ -19,7 +19,7 @@ All the songs on Spotify have been put into a big database, where each song not 
 
 Every time you listen to music on the service, the app takes note of how often you listen to each song and (if you rate music you listen to) how much you like it. Once the application has a certain amount of data about your choices, the model compares that data to all the songs in the database and <b>predicts</b> things that are similar to your tastes that you will probably <b>also</b> like.
 
-</p>
+</div>
 
 It would be very difficult to make a series of rules to decide what music you might like in this way, and impossible to do it for all the users on the service. But with machine learning, it is possible to create a **classification predictive model** that can process user data and give us recommendations. Once the model has enough data on a single user’s choices, it can **predict** other things that fit the pattern of things that user may like.
 
