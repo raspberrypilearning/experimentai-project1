@@ -10,7 +10,7 @@ If you watch videos on <b>YouTube</b>, listen to music on <b>Spotify</b>, or str
 
 The more content you access and rate, the more data the AI application records, meaning better predictions can be made about what you might like. This works the same way for shopping, news headlines, search results and social media. In fact - nearly every single recommendation you see online is targeted to you based on your internet history and machine learning! 
 </p>
-
+<br>
 
 ### You will:
 + Explore AI and machine learning by using some fun online apps

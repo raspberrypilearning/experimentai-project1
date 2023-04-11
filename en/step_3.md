@@ -8,7 +8,7 @@ Machine learning doesn’t work that way - it’s **data-driven**. Instead of us
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <h3>Example: Spotify Recommendations</h3>
-<br><br>
+<br>
 All the songs on Spotify have been put into a big database, where each song not only has data about the artist, title and album, but also about how the song sounds. Each song has been analysed and has data attached to it for values like:
 <br><br>
 <span style="color: #0faeb0">Danceability:</span> describes how suitable a track is for dancing! A value of 0.0 is least danceable and 1.0 is most danceable.
@@ -20,6 +20,7 @@ All the songs on Spotify have been put into a big database, where each song not 
 Every time you listen to music on the service, the app takes note of how often you listen to each song and (if you rate music you listen to) how much you like it. Once the application has a certain amount of data about your choices, the model compares that data to all the songs in the database and <b>predicts</b> things that are similar to your tastes that you will probably <b>also</b> like.
 
 </div>
+
 
 It would be very difficult to make a series of rules to decide what music you might like in this way, and impossible to do it for all the users on the service. But with machine learning, it is possible to create a **classification predictive model** that can process user data and give us recommendations. Once the model has enough data on a single user’s choices, it can **predict** other things that fit the pattern of things that user may like.
 
