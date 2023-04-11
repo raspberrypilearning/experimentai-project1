@@ -13,7 +13,7 @@
 ### To complete the quest you’ll need:
 + A computer with an internet connection
 + Headphones (recommended) or speakers
-+ A [Blueprint](https://rpf.io/p/en/blueprint-get){:target="_blank"} document to record your plan
++ A printed [Blueprint](resources/blueprint.pdf){:target="_blank"} document to record your plan
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Use the <b>Blueprint document</b> you've been given to keep notes on your project as it progresses, and answer the design questions in the spaces provided - it helps to keep your ideas in one place. (Write your name on it now, so it doesn't get lost!)
