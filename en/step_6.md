@@ -1,7 +1,7 @@
 ## Plan your machine learning application
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
-<h2 style="color: #0faeb0">“The thing is, I make music I like. So it's just weird if someone says they don't like it.”</h2> </div>
+<h2 style="color: #0faeb0">“The thing is, I make music I like. So it's just weird if someone says <i>they</i> don't like it.”</h2> </div>
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px; text-align: right'>
 <h3>- Tyler, The Creator</h3>
 </div>
