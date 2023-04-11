@@ -1,59 +1,20 @@
 ## Introduction
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+In this frst stage of the ExperimentAI Music quest, you will investigate AI as a tool 
 
-### What you will make
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+If you haven’t done much coding with Scratch before, get up to speed by trying our short warm-up project, [Space Talk](https://projects.raspberrypi.org/en/projects/space-talk){:target="_blank"}.
+</p>
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![A screenshot of a finished classification application with three colourful sprites showing different playlists and a bright background. You can see statistics for different values on the right - BPM, energy,danceability, speechiness and happiness.](images/wellness_screen_kpop.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+### You will:
+Create or Log in to your ML4Kids account and create a new machine learning model
+  
+Create a Scratch project which:
++ Searches an online music database by genre and returns random results in that genre
++ Allows the user to classify songs
++ Allows the user to click a sprite that rejects a song entirely and labels it as such in the model
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
