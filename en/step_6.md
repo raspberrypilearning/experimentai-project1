@@ -1,8 +1,8 @@
 ## Plan your machine learning application
 
-<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'><div>
+<div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <h2>“The thing is, I make music I like. So it's just weird if someone says they don't like it.”</h2> </div>
-<div text-align="right">
+<div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px; text-align: right'>
 <h3>- Tyler, The Creator</h3>
 </div>
 </p>
