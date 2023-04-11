@@ -5,11 +5,10 @@
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px; text-align: right'>
 <h3>- Tyler, The Creator</h3>
 </div>
-</p>
 
 Everybody has their own personal taste in music, but one thing humans can all agree on is that music can change your mood - it can pump you up, chill you out, help you focus and make you smile or cry. Music has been called the ‘universal language’ because of its ability to help humans communicate and influence others emotions through sound alone. 
 
-You’re going to tap into this primal human response and use machine learning to create yourself a series of playlists that will provide the soundtrack to your life!
+You’re going to tap into this primal human response and use machine learning to create yourself a series of playlists that will provide the soundtrack to your (or someone else's) life!
 
 ### Who is your user?
 
