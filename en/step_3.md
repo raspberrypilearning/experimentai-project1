@@ -8,7 +8,6 @@ Machine learning doesn’t work that way - it’s **data-driven**. Instead of us
 
 <div style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
 <h3>Example: Spotify Recommendations</h3>
-<br>
 All the songs on Spotify have been put into a big database, where each song not only has data about the artist, title and album, but also about how the song sounds. Each song has been analysed and has data attached to it for values like:
 <br><br>
 <span style="color: #0faeb0">Danceability:</span> describes how suitable a track is for dancing! A value of 0.0 is least danceable and 1.0 is most danceable.
