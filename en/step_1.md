@@ -19,3 +19,13 @@
 Use the <b>Blueprint document</b> you've been given to keep notes on your project as it progresses, and answer the design questions in the spaces provided - it helps to keep your ideas in one place. (Write your name on it now, so it doesn't get lost!)
 </p>
 
+### Let's get started!
+
+--- task ---
+
+Because you're part of our **VIP Pilot Cohort** and among the **first people in the world** to try this quest, The very first step is to complete the short [Creator Survey by clicking here](https://cambridge.eu.qualtrics.com/jfe/form/SV_8psZlvVQvNNI4ke){:target='_blank'}.
+
+--- /task ---
+
+When you're done, come back and move on to the first step on your road to making an AI DJ!
+
