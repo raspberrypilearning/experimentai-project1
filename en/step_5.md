@@ -35,11 +35,11 @@ Give the project a name and set it to recognise **images**.
 
 --- task ---
 
-Select **CREATE**.
+Select **CREATE**. Once created, click on the project title.
 
 ![](images/create_button.png)
 
-Once created, click on the project title.
+
 
 --- /task ---
 
@@ -52,10 +52,10 @@ Select **Train**.
 
 --- task ---
 
-Select **Add new label** and create a label for the class of **apples**.
+Select **Add new label** and create a label for the **apple** class.
 ![](images/add_apple.png)
 
-**Repeat** this step to create a second label for the class of **tomatoes**.
+**Repeat** this step to create a second label for the **tomato** class.
 
 --- /task ---
 
@@ -63,6 +63,8 @@ Select **Add new label** and create a label for the class of **apples**.
 
 Visit the following webpage to find the data set you can use to train your model: [Apples and Tomatoes](https://ai-activities.raspberrypi.org/project-files/){:target="_blank"} 
 ![](images/apples.png)
+
+There are two sets of data on this page under the headings **Training Data** and **Test Data**.
 
 --- /task ---
 

@@ -1,6 +1,6 @@
 ## Introduction
 
-In this first stage of the ExperimentAI Music quest, you will explore AI by playing with some fun apps which use machine learning, creating your first machine learning model and thinking about who will use your AI and Spotify application and how it can improve their life.
+In this first stage of the ExperimentAI Music quest, you will explore AI by playing with some fun apps which use Machine Learning (an approach taken to create AI applications), creating your first machine learning model and thinking about who will use your AI and Spotify application and how it can improve their life.
 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">

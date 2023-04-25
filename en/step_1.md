@@ -1,8 +1,8 @@
 ## Welcome!
-**You’re about to become a creator of artificial intelligence.** The guide you are now reading will help you through the process of designing, coding, training and testing a machine learning model that will use an online music database to create the soundtrack to your life!
+**You’re about to become a creator of artificial intelligence. (AI)** The guide you are now reading will help you through the process of designing, coding, training and testing a Machine Learning (ML) model that will use an online music database to create the soundtrack to your life!
 
 
-### By completing this quest you will: 
+### By completing the Experiment AI Music Quest quest you will: 
 + Create a Scratch project that can search for and play songs from an online music database
 + Train a machine learning model using categories of songs that suit your lifestyle
 + Create a Scratch project that takes the data from your machine learning model and predicts music based on your tastes
