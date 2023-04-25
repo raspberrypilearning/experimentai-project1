@@ -34,15 +34,15 @@ There are also opportunities to think about how you might help others by creatin
 
 **Take some time now to discuss these questions:**
 
-+ When are there times in your life that your user might want a musical influence?
-+ What feelings or responses to you want your user to feel??
++ When are the times or places that someone might want a musical influence?
++ What feelings or responses would they want to have?
 + What styles of music, artists or songs might make them feel that way?
 
 --- /task ---
 
 ### What are your playlists for?
 
-First, you’ll need to choose some times in your life for when you want a music playlist - these will be your **classes**. 
+First, you’ll need to choose some times or reasons for wanting a music playlist - these will be your **classes** - just like the apples and tomatoes in the earlier activity. 
 
 **Remember** - everyone has different musical tastes, and what makes you feel one way may not match with someone else’s experience…and that’s totally ok.
 
